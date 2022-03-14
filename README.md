@@ -1,6 +1,5 @@
-﻿# HTML-Odev-1
+# HTML - İlk Web Sayfamızı Oluşturmak
 
-Kodluyoruz Front End Web Development Eğitim Kapsamında HTML ile oluşturulan ilk web sitesi.
+Sadece HTML kullanılarak ilk web sayfası tasarlandı. Web sayfasında en çok kullanılan HTML etiketleri ile bir motosiklet tanıtımı yapıldı.
 
-![Exp](https://user-images.githubusercontent.com/95178772/144682139-baceaf01-b989-4245-a8bc-599523609a3e.PNG)
-
+![webgif](https://user-images.githubusercontent.com/95178772/158213947-ff6027ee-b542-4a72-b4e3-b3a0c4829146.gif)
